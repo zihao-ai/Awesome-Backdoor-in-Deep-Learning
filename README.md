@@ -88,9 +88,9 @@ This repository contains backdoor learning papers published on top conference an
 | 2019 | CCS2019    | [Latent Backdoor Attacks on Deep Neural Networks](https://doi.org/10.1145/3319535.3354209)                                                                                                                                   | [:octocat:](https://github.com/Huiying-Li/Latent-Backdoor)                                                |
 | 2018 | NDSS2018   | [Trojaning Attack on Neural Networks](http://wp.internetsociety.org/ndss/wp-content/uploads/sites/25/2018/02/ndss2018_03A-5_Liu_paper.pdf)                                                                                   | [:octocat:](https://github.com/PurduePAML/TrojanNN)                                                       |
 
-                                                    |
 ## Natural Language Processing
 [💨 Back to Top](#table-of-contents) 
+
 | Year | Venue      | Paper                                                                                                                                                        | Application | Code                                                                                         |
 | ---- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------- | -------------------------------------------------------------------------------------------- |
 | 2022 | ICLR2022   | [BadPre: Task-agnostic Backdoor Attacks to Pre-trained NLP Foundation Models](https://openreview.net/forum?id=Mng8CQ9eBW)                                    | NLP         | [:octocat:](https://github.com/kangjie-chen/BadPre)                                          |
@@ -111,14 +111,14 @@ This repository contains backdoor learning papers published on top conference an
 
 ## Graph Neural Networks
 [💨 Back to Top](#table-of-contents) 
-| Year | Venue      | Paper                                                                                                                    | Code                                                            |
-| ---- | ---------- | ------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------- |
-| 2022 | CCS2022    | [Clean-label Backdoor Attack on Graph Neural Networks](https://doi.org/10.1145/3548606.3563531)                          |                                                                 |
-| 2022 | ICMR2022   | [Camouflaged Poisoning Attack on Graph Neural Networks](https://dl.acm.org/doi/abs/10.1145/3512527.3531373)              | [:octocat](https://github.com/chao92/GAFNC)                     |
-| 2022 | RAID2022   | [Transferable Graph Backdoor Attack](https://dl.acm.org/doi/10.1145/3545948.3545976)                                     |                                                                 |
-| 2021 | SACMAT2021 | [Backdoor Attacks to Graph Neural Networks](https://dl.acm.org/doi/10.1145/3450569.3463560)                              | [:octocat](https://github.com/zaixizhang/graphbackdoor)         |
-| 2021 | USS2021    | [Graph Backdoor](https://www.usenix.org/conference/usenixsecurity21/presentation/xi)                                     | [:octocat:](https://github.com/HarrialX/GraphBackdoor)          |
-| 2021 | WiseML2021 | [Explainability-based Backdoor Attacks Against Graph Neural Network](https://dl.acm.org/doi/abs/10.1145/3468218.3469046) | [:octocat](https://github.com/xujing1994/Explanability_bkd_gnn) |
+| Year | Venue      | Paper                                                        | Code                                                         |
+| ---- | ---------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 2022 | CCS2022    | [Clean-label Backdoor Attack on Graph Neural Networks](https://doi.org/10.1145/3548606.3563531) |                                                              |
+| 2022 | ICMR2022   | [Camouflaged Poisoning Attack on Graph Neural Networks](https://dl.acm.org/doi/abs/10.1145/3512527.3531373) | [:octocat:](https://github.com/chao92/GAFNC)                 |
+| 2022 | RAID2022   | [Transferable Graph Backdoor Attack](https://dl.acm.org/doi/10.1145/3545948.3545976) |                                                              |
+| 2021 | SACMAT2021 | [Backdoor Attacks to Graph Neural Networks](https://dl.acm.org/doi/10.1145/3450569.3463560) | [:octocat:](https://github.com/zaixizhang/graphbackdoor)     |
+| 2021 | USS2021    | [Graph Backdoor](https://www.usenix.org/conference/usenixsecurity21/presentation/xi) | [:octocat:](https://github.com/HarrialX/GraphBackdoor)       |
+| 2021 | WiseML2021 | [Explainability-based Backdoor Attacks Against Graph Neural Network](https://dl.acm.org/doi/abs/10.1145/3468218.3469046) | [:octocat:](https://github.com/xujing1994/Explanability_bkd_gnn) |
 
 
 # 🛡Defense
@@ -126,26 +126,37 @@ Will be coming soon......
 
 # Others
 [💨 Back to Top](#table-of-contents)
-| Year | Venue       | Paper                                                                                                                                                                 | Application | Code                                                                             |
-|------|-------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|----------------------------------------------------------------------------------|
-| 2022 | CVPR2022    | [Backdoor Attacks on Self-Supervised Learning](https://doi.org/10.1109/CVPR52688.2022.01298)                                                                          | SSL         | [:octocat:](https://github.com/UMBCvision/SSL-Backdoor)                          |
-| 2022 | CVPR2022    | [Dual-Key Multimodal Backdoors for Visual Question Answering](https://doi.org/10.1109/CVPR52688.2022.01494)                                                           | MM          | [:octocat:](https://github.com/SRI-CSL/TrinityMultimodalTrojAI)                  |
-| 2022 | ICASSP2022  | [Object-Oriented Backdoor Attack Against Image Captioning](https://doi.org/10.1109/ICASSP43922.2022.9746440)                                                          | MM          |                                                                                  |
-| 2022 | ICML2022    | [Neurotoxin: Durable Backdoors in Federated Learning](https://proceedings.mlr.press/v162/zhang22w.html)                                                               | FL          | [:octocat:](https://github.com/jhcknzzm/Federated-Learning-Backdoor)             |
-| 2022 | IJCAI2022   | [Membership Inference via Backdooring](https://doi.org/10.24963/ijcai.2022/532)                                                                                       | MI          | [:octocat:](https://github.com/HongshengHu/membership-inference-via-backdooring) |
-| 2022 | NIPS2022    | [Untargeted Backdoor Watermark: Towards Harmless and Stealthy Dataset Copyright Protection](https://openreview.net/pdf/59189794e612834ea8d509a71f501144e4bf881d.pdf)  | Copyright   | [:octocat:](https://github.com/THUYimingLi/Untargeted_Backdoor_Watermark)        |
-| 2022 | TDSC2022    | [Backdoor Attack on Machine Learning Based Android Malware Detectors](https://doi.org/10.1109/TDSC.2021.3094824)                                                      |             |                                                                                  |
-| 2022 | USS2022     | [FLAME: Taming Backdoors in Federated Learning](https://www.usenix.org/conference/usenixsecurity22/presentation/nguyen)                                               | FL          | [:octocat:](https://github.com/Rachelxuan11/FLAME)                               |
-| 2021 | AAAI2021    | [DeHiB: Deep Hidden Backdoor Attack on Semi-supervised Learning via Adversarial Perturbation](https://ojs.aaai.org/index.php/AAAI/article/view/17266)                 | SSL         |                                                                                  |
-| 2021 | IJCAI2021   | [BACKDOORL: Backdoor Attack against Competitive Reinforcement Learning](https://doi.org/10.24963/ijcai.2021/509)                                                      | RL          |                                                                                  |
-| 2021 | KDD2021     | [What Do You See?: Evaluation of Explainable Artificial Intelligence (XAI) Interpretability through Neural Backdoors](https://doi.org/10.1145/3447548.3467213)        | XAI         |                                                                                  |
-| 2021 | TIFS2021    | [Deep Neural Backdoor in Semi-Supervised Learning: Threats and Countermeasures](https://doi.org/10.1109/TIFS.2021.3116431)                                            | SSL         |                                                                                  |
-| 2021 | TIFS2021    | [Stop-and-Go: Exploring Backdoor Attacks on Deep Reinforcement Learning-Based Traffic Congestion Control Systems](https://doi.org/10.1109/TIFS.2021.3114024)          | RL          |                                                                                  |
-| 2021 | USS2021     | [Explanation-Guided Backdoor Poisoning Attacks Against Malware Classifiers](https://www.usenix.org/conference/usenixsecurity21/presentation/severi)                   |             | [:octocat:](https://github.com/ClonedOne/MalwareBackdoors)                       |
-| 2020 | AISTATS2020 | [How To Backdoor Federated Learning](http://proceedings.mlr.press/v108/bagdasaryan20a.html)                                                                           | FL          | [:octocat:](https://github.com/ebagdasa/backdoor_federated_learning)             |
-| 2020 | ICLR2020    | [DBA: Distributed Backdoor Attacks against Federated Learning](https://openreview.net/forum?id=rkgyS0VFvr)                                                            | FL          | [:octocat:](https://github.com/AI-secure/DBA)                                    |
-| 2020 | NIPS2020    | [Attack of the Tails: Yes, You Really Can Backdoor Federated Learning](https://proceedings.neurips.cc/paper/2020/hash/b8ffa41d4e492f0fad2f13e29e1762eb-Abstract.html) | FL          | [:octocat:](https://github.com/pps-lab/fl-analysis)                              |
-| 2018 | USS2018     | [Turning Your Weakness Into a Strength: Watermarking Deep Neural Networks by Backdooring](https://www.usenix.org/conference/usenixsecurity18/presentation/adi)        | Copyright   | [:octocat:](https://github.com/adiyoss/WatermarkNN)      
+
+SSL: Self-supervised learning
+
+FL: Federated learning
+
+RL: Reinforcement learning
+
+MM: Multimodal
+
+
+
+| Year | Venue       | Paper                                                        | Application          | Code                                                         |
+| ---- | ----------- | ------------------------------------------------------------ | -------------------- | ------------------------------------------------------------ |
+| 2022 | CVPR2022    | [Backdoor Attacks on Self-Supervised Learning](https://doi.org/10.1109/CVPR52688.2022.01298) | SSL                  | [:octocat:](https://github.com/UMBCvision/SSL-Backdoor)      |
+| 2022 | CVPR2022    | [Dual-Key Multimodal Backdoors for Visual Question Answering](https://doi.org/10.1109/CVPR52688.2022.01494) | MM                   | [:octocat:](https://github.com/SRI-CSL/TrinityMultimodalTrojAI) |
+| 2022 | ICASSP2022  | [Object-Oriented Backdoor Attack Against Image Captioning](https://doi.org/10.1109/ICASSP43922.2022.9746440) | MM                   |                                                              |
+| 2022 | ICML2022    | [Neurotoxin: Durable Backdoors in Federated Learning](https://proceedings.mlr.press/v162/zhang22w.html) | FL                   | [:octocat:](https://github.com/jhcknzzm/Federated-Learning-Backdoor) |
+| 2022 | IJCAI2022   | [Membership Inference via Backdooring](https://doi.org/10.24963/ijcai.2022/532) | Membership Inference | [:octocat:](https://github.com/HongshengHu/membership-inference-via-backdooring) |
+| 2022 | NIPS2022    | [Untargeted Backdoor Watermark: Towards Harmless and Stealthy Dataset Copyright Protection](https://openreview.net/pdf/59189794e612834ea8d509a71f501144e4bf881d.pdf) | Copyright            | [:octocat:](https://github.com/THUYimingLi/Untargeted_Backdoor_Watermark) |
+| 2022 | TDSC2022    | [Backdoor Attack on Machine Learning Based Android Malware Detectors](https://doi.org/10.1109/TDSC.2021.3094824) |                      |                                                              |
+| 2022 | USS2022     | [FLAME: Taming Backdoors in Federated Learning](https://www.usenix.org/conference/usenixsecurity22/presentation/nguyen) | FL                   | [:octocat:](https://github.com/Rachelxuan11/FLAME)           |
+| 2021 | AAAI2021    | [DeHiB: Deep Hidden Backdoor Attack on Semi-supervised Learning via Adversarial Perturbation](https://ojs.aaai.org/index.php/AAAI/article/view/17266) | SSL                  |                                                              |
+| 2021 | IJCAI2021   | [BACKDOORL: Backdoor Attack against Competitive Reinforcement Learning](https://doi.org/10.24963/ijcai.2021/509) | RL                   |                                                              |
+| 2021 | KDD2021     | [What Do You See?: Evaluation of Explainable Artificial Intelligence (XAI) Interpretability through Neural Backdoors](https://doi.org/10.1145/3447548.3467213) | XAI                  |                                                              |
+| 2021 | TIFS2021    | [Deep Neural Backdoor in Semi-Supervised Learning: Threats and Countermeasures](https://doi.org/10.1109/TIFS.2021.3116431) | SSL                  |                                                              |
+| 2021 | TIFS2021    | [Stop-and-Go: Exploring Backdoor Attacks on Deep Reinforcement Learning-Based Traffic Congestion Control Systems](https://doi.org/10.1109/TIFS.2021.3114024) | RL                   |                                                              |
+| 2021 | USS2021     | [Explanation-Guided Backdoor Poisoning Attacks Against Malware Classifiers](https://www.usenix.org/conference/usenixsecurity21/presentation/severi) |                      | [:octocat:](https://github.com/ClonedOne/MalwareBackdoors)   |
+| 2020 | AISTATS2020 | [How To Backdoor Federated Learning](http://proceedings.mlr.press/v108/bagdasaryan20a.html) | FL                   | [:octocat:](https://github.com/ebagdasa/backdoor_federated_learning) |
+| 2020 | ICLR2020    | [DBA: Distributed Backdoor Attacks against Federated Learning](https://openreview.net/forum?id=rkgyS0VFvr) | FL                   | [:octocat:](https://github.com/AI-secure/DBA)                |
+| 2020 | NIPS2020    | [Attack of the Tails: Yes, You Really Can Backdoor Federated Learning](https://proceedings.neurips.cc/paper/2020/hash/b8ffa41d4e492f0fad2f13e29e1762eb-Abstract.html) | FL                   | [:octocat:](https://github.com/pps-lab/fl-analysis)          |
+| 2018 | USS2018     | [Turning Your Weakness Into a Strength: Watermarking Deep Neural Networks by Backdooring](https://www.usenix.org/conference/usenixsecurity18/presentation/adi) | Copyright            | [:octocat:](https://github.com/adiyoss/WatermarkNN)          |
                         |
 # ⚙Toolbox
 [💨 Back to Top](#table-of-contents)
