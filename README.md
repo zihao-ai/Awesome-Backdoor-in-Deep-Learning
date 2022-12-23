@@ -12,6 +12,7 @@ This repository contains backdoor learning papers published on top conference an
   - [Graph Neural Networks](#graph-neural-networks)
 - [🛡Defense](#defense)
 - [Others](#others)
+- [⚙Toolbox](#toolbox)
 
 # 📃Survey
 | Year | Venue                        | Paper                                                                                                                                                           |
@@ -21,9 +22,7 @@ This repository contains backdoor learning papers published on top conference an
 | 2022 | IEEE Wireless Communications | [Backdoor Attacks and Defenses in Federated Learning: State-of-the-art, Taxonomy, and Future Directions](https://ieeexplore.ieee.org/abstract/document/9806416) |
 | 2021 | Neurocomputing               | [Defense against Neural Trojan Attacks: A Survey](https://www.sciencedirect.com/science/article/pii/S0925231220316350)                                          |
 | 2020 | ISQED                        | [A Survey on Neural Trojans](https://eprint.iacr.org/2020/201.pdf)                                                                                              |
-<br/>
-<div align="right">     <b><a href="#table of contents">↥ back to top</a></b> </div>
-<br/>
+
 
 # ⚔Attack
 
@@ -90,9 +89,7 @@ This repository contains backdoor learning papers published on top conference an
 | 2020 | NeurIPS2020 | [On the Trade-off between Adversarial and Backdoor Robustness](https://proceedings.neurips.cc/paper/2020/hash/8b4066554730ddfaa0266346bdc1b202-Abstract.html)                                                                | [:octocat:](https://github.com/nthu-datalab/On.the.Trade-off.between.Adversarial.and.Backdoor.Robustness) |
 | 2019 | CCS2019     | [Latent Backdoor Attacks on Deep Neural Networks](https://doi.org/10.1145/3319535.3354209)                                                                                                                                   | [:octocat:](https://github.com/Huiying-Li/Latent-Backdoor)                                                |
 | 2018 | NDSS2018    | [Trojaning Attack on Neural Networks](http://wp.internetsociety.org/ndss/wp-content/uploads/sites/25/2018/02/ndss2018_03A-5_Liu_paper.pdf)                                                                                   | [:octocat:](https://github.com/PurduePAML/TrojanNN)                                                       |
-<br/>
-<div align="right">     <b><a href="#table of contents">↥ back to top</a></b> </div>
-<br/>
+
 
 ## Natural Language Processing
 
@@ -113,9 +110,6 @@ This repository contains backdoor learning papers published on top conference an
 | 2021 | EMNLP2021   | [Mind the Style of Text! Adversarial and Backdoor Attacks Based on Text Style Transfer](https://doi.org/10.18653/v1/2021.emnlp-main.374)                     | NLP         | [:octocat:](https://paperswithcode.com/paper/?acl=2021.emnlp-main.374)                       |
 | 2021 | EUROSP2021  | [Trojaning Language Models for Fun and Profit](https://doi.org/10.1109/EuroSP51992.2021.00022)                                                               | NLP         | [:octocat:](https://github.com/alps-lab/trojan-lm)                                           |
 | 2021 | ICASSP2021  | [Backdoor Attack Against Speaker Verification](https://doi.org/10.1109/ICASSP39728.2021.9413468)                                                             | NLP         | [:octocat:](https://github.com/zhaitongqing233/Backdoor-attack-against-speaker-verification) |
-<br/>
-<div align="right">     <b><a href="#table of contents">↥ back to top</a></b> </div>
-<br/>
 
 ## Graph Neural Networks
 
@@ -127,16 +121,13 @@ This repository contains backdoor learning papers published on top conference an
 | 2021 | SACMAT2021 | [Backdoor Attacks to Graph Neural Networks](https://dl.acm.org/doi/10.1145/3450569.3463560)                              | [:octocat:](https://github.com/zaixizhang/graphbackdoor)         |
 | 2021 | USS2021    | [Graph Backdoor](https://www.usenix.org/conference/usenixsecurity21/presentation/xi)                                     | [:octocat:](https://github.com/HarrialX/GraphBackdoor)           |
 | 2021 | WiseML2021 | [Explainability-based Backdoor Attacks Against Graph Neural Network](https://dl.acm.org/doi/abs/10.1145/3468218.3469046) | [:octocat:](https://github.com/xujing1994/Explanability_bkd_gnn) |
-<br/>
-<div align="right">     <b><a href="#table of contents">↥ back to top</a></b> </div>
-<br/>
+
 
 # 🛡Defense
 
 Will be coming soon......
 
 # Others
-[💨 Back to Top](#table-of-contents)
 
 SSL: Self-supervised learning
 
@@ -166,16 +157,10 @@ MM: Multimodal
 | 2020 | ICLR2020    | [DBA: Distributed Backdoor Attacks against Federated Learning](https://openreview.net/forum?id=rkgyS0VFvr)                                                            | FL                   | [:octocat:](https://github.com/AI-secure/DBA)                                    |
 | 2020 | NIPS2020    | [Attack of the Tails: Yes, You Really Can Backdoor Federated Learning](https://proceedings.neurips.cc/paper/2020/hash/b8ffa41d4e492f0fad2f13e29e1762eb-Abstract.html) | FL                   | [:octocat:](https://github.com/pps-lab/fl-analysis)                              |
 | 2018 | USS2018     | [Turning Your Weakness Into a Strength: Watermarking Deep Neural Networks by Backdooring](https://www.usenix.org/conference/usenixsecurity18/presentation/adi)        | Copyright            | [:octocat:](https://github.com/adiyoss/WatermarkNN)                              |
-<br/>
-<div align="right">     <b><a href="#table of contents">↥ back to top</a></b> </div>
-<br/>
 
-⚙Toolbox
 
-[💨 Back to Top](#table of contents)
+# ⚙Toolbox
 
 + **BackdoorBench: A Comprehensive Benchmark of Backdoor Learning**, *[📝NeurIPS 2022](https://arxiv.org/abs/2206.12654)*, *[:octocat:Code](https://github.com/SCLBD/BackdoorBench)*
-  
-[backdoor to top](#Table of contents) 
 
 
