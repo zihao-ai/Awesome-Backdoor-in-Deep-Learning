@@ -3,8 +3,6 @@
 This repository contains backdoor learning papers published on top conference and journals, ranging from 2016 to 2022. 
 
 # Table of contents
-- [⚔🛡 Awesome Backdoor Attack and Defense in Deep Learning](#-awesome-backdoor-attack-and-defense-in-deep-learning)
-- [Table of contents](#table-of-contents)
 - [📃Survey](#survey)
 - [⚔Attack](#attack)
   - [Computer Vision](#computer-vision)
@@ -162,5 +160,4 @@ MM: Multimodal
 # ⚙Toolbox
 
 + **BackdoorBench: A Comprehensive Benchmark of Backdoor Learning**, *[📝NeurIPS 2022](https://arxiv.org/abs/2206.12654)*, *[:octocat:Code](https://github.com/SCLBD/BackdoorBench)*
-
 
