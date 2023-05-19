@@ -1,6 +1,6 @@
 # ⚔🛡 Awesome Backdoor Attack and Defense
 
-This repository contains a collection of papers and resources  on **backdoor attacks and defenses **in deep learning.
+This repository contains a collection of papers and resources  on **backdoor attacks and defenses** in deep learning.
 
 # Table of contents
 - [⚔🛡 Awesome Backdoor Attack and Defense in Deep Learning](#-awesome-backdoor-attack-and-defense-in-deep-learning)
