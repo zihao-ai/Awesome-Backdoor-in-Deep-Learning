@@ -1,6 +1,6 @@
-# ⚔🛡 Awesome Backdoor Attack and Defense in Deep Learning
+# ⚔🛡 Awesome Backdoor Attack and Defense
 
-This repository contains backdoor learning papers published on top conference and journals, ranging from 2016 to 2023. 
+This repository contains a collection of papers and resources  on **backdoor attacks and defenses **in deep learning.
 
 # Table of contents
 - [⚔🛡 Awesome Backdoor Attack and Defense in Deep Learning](#-awesome-backdoor-attack-and-defense-in-deep-learning)
@@ -14,7 +14,6 @@ This repository contains backdoor learning papers published on top conference an
   - [Before-training](#before-training)
   - [In-training](#in-training)
   - [Post-training](#post-training)
-- [Others](#others)
 - [⚙Toolbox](#toolbox)
 
 # 📃Survey
@@ -63,10 +62,10 @@ This repository contains backdoor learning papers published on top conference an
 | 2022 | ECCV 2022    | [RIBAC: Towards Robust and Imperceptible Backdoor Attack against Compact DNN](https://doi.org/10.1007/978-3-031-19772-7_41) | [:octocat:](https://github.com/huyvnphan/ECCV2022-RIBAC)     |
 | 2022 | EUROSP 2022  | [Dynamic Backdoor Attacks Against Machine Learning Models](https://doi.org/10.1109/EuroSP53844.2022.00049) |                                                              |
 | 2022 | EUROSP 2022  | [TrojanZoo: Towards Unified, Holistic, and Practical Evaluation of Neural Backdoors](https://doi.org/10.1109/EuroSP53844.2022.00048) | [:octocat:](https://github.com/ain-soph/trojanzoo)           |
-| 2022 | ICASSP 2022  | [Invisible and Efficient Backdoor Attacks for Compressed Deep Neural Networks](https://doi.org/10.1109/ICASSP43922.2022.9747582) |                                                              |
+| 2022 | ICASSP 2022 | [Invisible and Efficient Backdoor Attacks for Compressed Deep Neural Networks](https://doi.org/10.1109/ICASSP43922.2022.9747582) |                                                              |
 | 2022 | ICASSP 2022  | [Stealthy Backdoor Attack with Adversarial Training](https://doi.org/10.1109/ICASSP43922.2022.9746008) |                                                              |
 | 2022 | ICASSP 2022  | [When Does Backdoor Attack Succeed in Image Reconstruction? A Study of Heuristics vs. Bi-Level Solution](https://doi.org/10.1109/ICASSP43922.2022.9746433) |                                                              |
-| 2022 | ICASSP2022 | [Object-Oriented Backdoor Attack Against Image Captioning](https://doi.org/10.1109/ICASSP43922.2022.9746440) | |
+| 2022 | ICASSP 2022 | [Object-Oriented Backdoor Attack Against Image Captioning](https://doi.org/10.1109/ICASSP43922.2022.9746440) | |
 | 2022 | ICLR 2022    | [Few-Shot Backdoor Attacks on Visual Object Tracking](https://openreview.net/forum?id=qSV5CuSaK_a) | [:octocat:](https://github.com/HXZhong1997/FSBA)             |
 | 2022 | ICLR 2022    | [How to Inject Backdoors with Better Consistency: Logit Anchoring on Clean Data](https://openreview.net/forum?id=Bn09TnDngN) |                                                              |
 | 2022 | ICLR 2022    | [Poisoning and Backdooring Contrastive Learning](https://openreview.net/forum?id=iC4UHbQ01Mp) |                                                              |
@@ -102,8 +101,8 @@ This repository contains backdoor learning papers published on top conference an
 | 2021 | NeurIPS 2021 | [Backdoor Attack with Imperceptible Input and Latent Modification](https://proceedings.neurips.cc/paper/2021/hash/9d99197e2ebf03fc388d09f1e94af89b-Abstract.html) |                                                              |
 | 2021 | NeurIPS 2021 | [Excess Capacity and Backdoor Poisoning](https://proceedings.neurips.cc/paper/2021/hash/aaebdb8bb6b0e73f6c3c54a0ab0c6415-Abstract.html) | [:octocat:](https://github.com/narenmanoj/mnist-adv-training) |
 | 2021 | TDSC 2021    | [Invisible Backdoor Attacks on Deep Neural Networks Via Steganography and Regularization](https://doi.org/10.1109/TDSC.2020.3021407) |                                                              |
-| 2021 | TIFS2021 | [Deep Neural Backdoor in Semi-Supervised Learning: Threats and Countermeasures](https://doi.org/10.1109/TIFS.2021.3116431) | |
-| 2021 | KDD2021 | [What Do You See?: Evaluation of Explainable Artificial Intelligence (XAI) Interpretability through Neural Backdoors](https://doi.org/10.1145/3447548.3467213) | |
+| 2021 | TIFS 2021 | [Deep Neural Backdoor in Semi-Supervised Learning: Threats and Countermeasures](https://doi.org/10.1109/TIFS.2021.3116431) | |
+| 2021 | KDD 2021 | [What Do You See?: Evaluation of Explainable Artificial Intelligence (XAI) Interpretability through Neural Backdoors](https://doi.org/10.1145/3447548.3467213) | |
 | 2021 | USS 2021     | [Blind Backdoors in Deep Learning Models](https://www.usenix.org/conference/usenixsecurity21/presentation/bagdasaryan) | [:octocat:](https://github.com/ebagdasa/backdoors101)        |
 | 2020 | AAAI 2020    | [Hidden Trigger Backdoor Attacks](https://ojs.aaai.org/index.php/AAAI/article/view/6871) | [:octocat:](https://github.com/UMBCvision/Hidden-Trigger-Backdoor-Attacks) |
 | 2020 | CCS 2020     | [Composite Backdoor Attack for Deep Neural Network by Mixing Existing Benign Features](https://doi.org/10.1145/3372297.3423362) |                                                              |
@@ -115,10 +114,10 @@ This repository contains backdoor learning papers published on top conference an
 | 2020 | NeurIPS 2020 | [Input-Aware Dynamic Backdoor Attack](https://proceedings.neurips.cc/paper/2020/hash/234e691320c0ad5b45ee3c96d0d7b8f8-Abstract.html) | [:octocat:](https://github.com/VinAIResearch/input-aware-backdoor-attack-release) |
 | 2020 | NeurIPS 2020 | [On the Trade-off between Adversarial and Backdoor Robustness](https://proceedings.neurips.cc/paper/2020/hash/8b4066554730ddfaa0266346bdc1b202-Abstract.html) | [:octocat:](https://github.com/nthu-datalab/On.the.Trade-off.between.Adversarial.and.Backdoor.Robustness) |
 | 2020 | AISTATS 2020 | [How To Backdoor Federated Learning](http://proceedings.mlr.press/v108/bagdasaryan20a.html) | [:octocat:](https://github.com/ebagdasa/backdoor_federated_learning) |
-| 2020 | ICLR2020 | [DBA: Distributed Backdoor Attacks against Federated Learning](https://openreview.net/forum?id=rkgyS0VFvr) | [:octocat:](https://github.com/AI-secure/DBA) |
-| 2020 | NIPS2020 | [Attack of the Tails: Yes, You Really Can Backdoor Federated Learning](https://proceedings.neurips.cc/paper/2020/hash/b8ffa41d4e492f0fad2f13e29e1762eb-Abstract.html) | [:octocat:](https://github.com/pps-lab/fl-analysis) |
+| 2020 | ICLR 2020 | [DBA: Distributed Backdoor Attacks against Federated Learning](https://openreview.net/forum?id=rkgyS0VFvr) | [:octocat:](https://github.com/AI-secure/DBA) |
+| 2020 | NeurIPS 2020 | [Attack of the Tails: Yes, You Really Can Backdoor Federated Learning](https://proceedings.neurips.cc/paper/2020/hash/b8ffa41d4e492f0fad2f13e29e1762eb-Abstract.html) | [:octocat:](https://github.com/pps-lab/fl-analysis) |
 | 2019 | CCS 2019     | [Latent Backdoor Attacks on Deep Neural Networks](https://doi.org/10.1145/3319535.3354209) | [:octocat:](https://github.com/Huiying-Li/Latent-Backdoor)   |
-| 2018 | USS2018 | [Turning Your Weakness Into a Strength: Watermarking Deep Neural Networks by Backdooring](https://www.usenix.org/conference/usenixsecurity18/presentation/adi) | [:octocat:](https://github.com/adiyoss/WatermarkNN) |
+| 2018 | USS 2018 | [Turning Your Weakness Into a Strength: Watermarking Deep Neural Networks by Backdooring](https://www.usenix.org/conference/usenixsecurity18/presentation/adi) | [:octocat:](https://github.com/adiyoss/WatermarkNN) |
 | 2018 | NDSS 2018    | [Trojaning Attack on Neural Networks](http://wp.internetsociety.org/ndss/wp-content/uploads/sites/25/2018/02/ndss2018_03A-5_Liu_paper.pdf) | [:octocat:](https://github.com/PurduePAML/TrojanNN)          |
 
 
@@ -166,7 +165,8 @@ This repository contains backdoor learning papers published on top conference an
 | 2023 | USENIX Security 2023 | [How to Sift Out a Clean Data Subset in the Presence of Data Poisoning? ](http://arxiv.org/abs/2210.06516) | [:octocat:](https://github.com/ruoxi-jia-group/Meta-Sift) |
 
 ## In-training
-
+| Year | Venue                | Paper                                                        | Code                                                         |
+| ---- | -------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 2023 | CVPR 2023    | [Backdoor Defense via Adaptively Splitting Poisoned Dataset](https://arxiv.org/abs/2303.12993) | [:octocat:](https://github.com/KuofengGao/ASD) |
 | 2023 | CVPR 2023    | [Backdoor Defense via Deconfounded Representation Learning](https://arxiv.org/abs/2303.06818) | [:octocat:](https://github.com/zaixizhang/CBD) |
 
