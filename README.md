@@ -33,17 +33,17 @@ This repository contains a collection of papers and resources  on **backdoor att
 | Year | Venue        | Paper                                                        | Code                                                         |
 | ---- | ------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 2023 | ICML 2023 | [Chameleon: Adapting to Peer Images for Planting Durable Backdoors in Federated Learning](https://arxiv.org/abs/2304.12961) |  |
-| 2023 | ICLR 2023    | [TrojText: Test-time Invisible Textual Trojan Insertion](https://openreview.net/forum?id=ja4Lpp5mqc2) | [:octocat:](https://github.com/UCF-ML-Research/TrojText)  |
-| 2023 | ICLR 2023    | [Few-shot Backdoor Attacks via Neural Tangent Kernels](https://openreview.net/forum?id=a70lGJ-rwy) |   |
-| 2023 | ICLR 2023    | [Revisiting the Assumption of Latent Separability for Backdoor Defenses](https://openreview.net/forum?id=_wSHsgrVali) | [:octocat:](https://github.com/Unispac/Circumventing-Backdoor-Defenses)  |
-| 2023 | ICLR 2023    | [The Dark Side of AutoML: Towards Architectural Backdoor Search](https://openreview.net/forum?id=bsZULlDGXe) | [:octocat:](https://github.com/ain-soph/nas_backdoor)  |
-| 2023 | ICLR 2023    | [Clean-image Backdoor: Attacking Multi-label Models with Poisoned Labels Only](https://openreview.net/forum?id=rFQfjDC9Mt) | |
 | 2023 | CVPR 2023    | [Architectural Backdoors in Neural Networks](https://arxiv.org/abs/2206.07840) | |
 | 2023 | CVPR 2023    | [How to Backdoor Diffusion Models?](https://arxiv.org/abs/2206.07840) | [:octocat:](https://github.com/IBM/BadDiffusion)|
 | 2023 | CVPR 2023    | Color Backdoor: A Robust Poisoning Attack in Color Space| |
 | 2023 | CVPR 2023    | [You Are Catching My Attention: Are Vision Transformers Bad Learners Under Backdoor Attacks?](https://openreview.net/forum?id=7P_yIFi6zaA) | |
 | 2023 | CVPR 2023    | The Dark Side of Dynamic Routing Neural Networks: Towards Efficiency Backdoor Injection | [:octocat:](https://github.com/SeekingDream/CVPR23_EfficFrog) |
 | 2023 | CVPR 2023    | [Backdoor Attacks Against Deep Image Compression via Adaptive Frequency Trigger](https://arxiv.org/abs/2302.14677) ||
+| 2023 | ICLR 2023    | [Revisiting the Assumption of Latent Separability for Backdoor Defenses](https://openreview.net/forum?id=_wSHsgrVali) | [:octocat:](https://github.com/Unispac/Circumventing-Backdoor-Defenses)  |
+| 2023 | ICLR 2023    | [TrojText: Test-time Invisible Textual Trojan Insertion](https://openreview.net/forum?id=ja4Lpp5mqc2) | [:octocat:](https://github.com/UCF-ML-Research/TrojText)  |
+| 2023 | ICLR 2023    | [Few-shot Backdoor Attacks via Neural Tangent Kernels](https://openreview.net/forum?id=a70lGJ-rwy) |   |
+| 2023 | ICLR 2023    | [The Dark Side of AutoML: Towards Architectural Backdoor Search](https://openreview.net/forum?id=bsZULlDGXe) | [:octocat:](https://github.com/ain-soph/nas_backdoor)  |
+| 2023 | ICLR 2023    | [Clean-image Backdoor: Attacking Multi-label Models with Poisoned Labels Only](https://openreview.net/forum?id=rFQfjDC9Mt) | |
 | 2023 | SIGIR 2023 | [Manipulating Federated Recommender Systems: Poisoning with Synthetic Users and Its Countermeasures](https://arxiv.org/abs/2304.03054) ||
 | 2022 | AAAI 2022    | [Backdoor Attacks on the DNN Interpretation System](https://ojs.aaai.org/index.php/AAAI/article/view/19935) ||
 | 2022 | AAAI 2022    | [Faster Algorithms for Weak Backdoors](https://ojs.aaai.org/index.php/AAAI/article/view/20288) ||
@@ -169,13 +169,13 @@ This repository contains a collection of papers and resources  on **backdoor att
 | ---- | -------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 2023 | CVPR 2023    | [Backdoor Defense via Adaptively Splitting Poisoned Dataset](https://arxiv.org/abs/2303.12993) | [:octocat:](https://github.com/KuofengGao/ASD) |
 | 2023 | CVPR 2023    | [Backdoor Defense via Deconfounded Representation Learning](https://arxiv.org/abs/2303.06818) | [:octocat:](https://github.com/zaixizhang/CBD) |
+| 2023 | CVPR 2023 | [Progressive Backdoor Erasing via connecting Backdoor and Adversarial Attacks](https://arxiv.org/abs/2202.06312) | [:octocat:](https://github.com/SeekingDream/CVPR23_EfficFrog) |
 
 
 ## Post-training
 | Year | Venue                | Paper                                                        | Code                                                         |
 | ---- | -------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 2023 | CVPR 2023            | [Backdoor Cleansing with Unlabeled Data](https://arxiv.org/abs/2211.12044) | [:octocat:](https://github.com/luluppang/BCU)                |
-| 2023 | CVPR 2023            | [Progressive Backdoor Erasing via connecting Backdoor and Adversarial Attacks](https://arxiv.org/abs/2202.06312) | [:octocat:](https://github.com/SeekingDream/CVPR23_EfficFrog) |
 | 2023 | CVPR 2023            | [MEDIC: Remove Model Backdoors via Importance Driven Cloning](https://openreview.net/forum?id=qHcR93949op) |                                                              |
 | 2023 | CVPR 2023            | [Detecting Backdoors During the Inference Stage Based on Corruption Robustness Consistency](https://arxiv.org/abs/2303.18191) |                                                              |
 | 2023 | CVPR 2023            | [Detecting Backdoors in Pre-trained Encoders](https://arxiv.org/abs/2303.15180) | [:octocat:](https://github.com/GiantSeaweed/DECREE)          |
