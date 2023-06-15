@@ -40,7 +40,6 @@ This repository contains a collection of papers and resources  on **backdoor att
 | 2023 | CVPR 2023    | The Dark Side of Dynamic Routing Neural Networks: Towards Efficiency Backdoor Injection | [:octocat:](https://github.com/SeekingDream/CVPR23_EfficFrog) |
 | 2023 | CVPR 2023    | [Backdoor Attacks Against Deep Image Compression via Adaptive Frequency Trigger](https://arxiv.org/abs/2302.14677) ||
 | 2023 | ICLR 2023    | [Revisiting the Assumption of Latent Separability for Backdoor Defenses](https://openreview.net/forum?id=_wSHsgrVali) | [:octocat:](https://github.com/Unispac/Circumventing-Backdoor-Defenses)  |
-| 2023 | ICLR 2023    | [TrojText: Test-time Invisible Textual Trojan Insertion](https://openreview.net/forum?id=ja4Lpp5mqc2) | [:octocat:](https://github.com/UCF-ML-Research/TrojText)  |
 | 2023 | ICLR 2023    | [Few-shot Backdoor Attacks via Neural Tangent Kernels](https://openreview.net/forum?id=a70lGJ-rwy) |   |
 | 2023 | ICLR 2023    | [The Dark Side of AutoML: Towards Architectural Backdoor Search](https://openreview.net/forum?id=bsZULlDGXe) | [:octocat:](https://github.com/ain-soph/nas_backdoor)  |
 | 2023 | ICLR 2023    | [Clean-image Backdoor: Attacking Multi-label Models with Poisoned Labels Only](https://openreview.net/forum?id=rFQfjDC9Mt) | |
@@ -61,7 +60,6 @@ This repository contains a collection of papers and resources  on **backdoor att
 | 2022 | ECCV 2022    | [An Invisible Black-Box Backdoor Attack Through Frequency Domain](https://doi.org/10.1007/978-3-031-19778-9_23) | [:octocat:](https://github.com/SoftWiser-group/FTrojan)      |
 | 2022 | ECCV 2022    | [RIBAC: Towards Robust and Imperceptible Backdoor Attack against Compact DNN](https://doi.org/10.1007/978-3-031-19772-7_41) | [:octocat:](https://github.com/huyvnphan/ECCV2022-RIBAC)     |
 | 2022 | EUROSP 2022  | [Dynamic Backdoor Attacks Against Machine Learning Models](https://doi.org/10.1109/EuroSP53844.2022.00049) |                                                              |
-| 2022 | EUROSP 2022  | [TrojanZoo: Towards Unified, Holistic, and Practical Evaluation of Neural Backdoors](https://doi.org/10.1109/EuroSP53844.2022.00048) | [:octocat:](https://github.com/ain-soph/trojanzoo)           |
 | 2022 | ICASSP 2022 | [Invisible and Efficient Backdoor Attacks for Compressed Deep Neural Networks](https://doi.org/10.1109/ICASSP43922.2022.9747582) |                                                              |
 | 2022 | ICASSP 2022  | [Stealthy Backdoor Attack with Adversarial Training](https://doi.org/10.1109/ICASSP43922.2022.9746008) |                                                              |
 | 2022 | ICASSP 2022  | [When Does Backdoor Attack Succeed in Image Reconstruction? A Study of Heuristics vs. Bi-Level Solution](https://doi.org/10.1109/ICASSP43922.2022.9746433) |                                                              |
