@@ -19,7 +19,7 @@ This repository contains a collection of papers and resources  on **backdoor att
 # 📃Survey
 | Year | Venue                        | Paper                                                                                                                                                           |
 | ---- | ---------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2023 | arXiv                        | [Adversarial Machine Learning: A Systematic Survey of Backdoor Attack, Weight Attack and Adversarial Example](https://arxiv.org/pdf/2012.10544.pdf)                                      |
+| 2023 | arXiv                        | [Adversarial Machine Learning: A Systematic Survey of Backdoor Attack, Weight Attack and Adversarial Example](https://arxiv.org/pdf/2302.09457)                                      |
 | 2022 | TPAMI                        | [Data Security for Machine Learning: Data Poisoning, Backdoor Attacks, and Defenses](https://arxiv.org/pdf/2012.10544.pdf)                                      |
 | 2022 | TNNLS                        | [Backdoor Learning: A Survey](https://www.researchgate.net/publication/343006441_Backdoor_Learning_A_Survey)                                                    |
 | 2022 | IEEE Wireless Communications | [Backdoor Attacks and Defenses in Federated Learning: State-of-the-art, Taxonomy, and Future Directions](https://ieeexplore.ieee.org/abstract/document/9806416) |
