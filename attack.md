@@ -11,13 +11,11 @@ This repository contains a collection of papers and resources  on **backdoor att
 
 [TOC]
 
+## Survey
 
+## Backdoor in Image Classification
 
-# Survey
+### Attack
 
-# Backdoor in Image Classification
-
-## Attack
-
-## Defense
+### Defense
 
