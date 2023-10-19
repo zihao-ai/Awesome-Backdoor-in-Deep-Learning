@@ -1,6 +1,6 @@
-# ⚔🛡 Awesome Backdoor Attack and Defense
+# ⚔🛡 Awesome Backdoor Attack
 
-This repository contains a collection of papers and resources  on **backdoor attacks and defenses** in deep learning.
+This repository contains a collection of papers and resources  on **backdoor attacks** in deep learning.
 
 # Table of contents
 - [⚔🛡 Awesome Backdoor Attack and Defense in Deep Learning](#-awesome-backdoor-attack-and-defense-in-deep-learning)
@@ -11,9 +11,10 @@ This repository contains a collection of papers and resources  on **backdoor att
   - [Natural Language Processing](#natural-language-processing)
   - [Graph Neural Networks](#graph-neural-networks)
 - [🛡Defense](#defense)
-  - [Before-training](#before-training)
+  - [Before-training](#Pre-training)
   - [In-training](#in-training)
   - [Post-training](#post-training)
+  - [Inference](#Inference)
 - [⚙Toolbox](#toolbox)
 
 # 📃Survey
