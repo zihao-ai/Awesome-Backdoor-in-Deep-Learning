@@ -56,6 +56,8 @@ This repository contains a collection of papers and resources  on **backdoor att
 | ---- | ------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 2023 | NeurIPS 2023 | [Label Poisoning is All You Need](https://neurips.cc/virtual/2023/poster/70392) |  |
 | 2023 | ICCV 2023 | [Computation and Data Efficient Backdoor Attacks](https://openaccess.thecvf.com/content/ICCV2023/html/Wu_Computation_and_Data_Efficient_Backdoor_Attacks_ICCV_2023_paper.html) |  |
+| 2023 | arXiv | [Boosting backdoor attack with a learnable poisoning sample selection strategy](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lBSoR4IAAAAJ&citation_for_view=lBSoR4IAAAAJ:KlAtU1dfN6UC) | |
+| 2023 | arXiv | [Robust Backdoor Attack with Visible, Semantic, Sample-Specific, and Compatible Triggers](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lBSoR4IAAAAJ&citation_for_view=lBSoR4IAAAAJ:kNdYIx-mwKoC) | |
 | 2023 | CVPR 2023    | [Architectural Backdoors in Neural Networks](https://arxiv.org/abs/2206.07840) | |
 | 2023 | CVPR 2023    | [Color Backdoor: A Robust Poisoning Attack in Color Space](https://openaccess.thecvf.com/content/CVPR2023/papers/Jiang_Color_Backdoor_A_Robust_Poisoning_Attack_in_Color_Space_CVPR_2023_paper.pdf) | |
 | 2023 | CVPR 2023    | [You Are Catching My Attention: Are Vision Transformers Bad Learners Under Backdoor Attacks?](https://openreview.net/forum?id=7P_yIFi6zaA) | |
@@ -264,7 +266,6 @@ This repository contains a collection of papers and resources  on **backdoor att
 | ---- | ------------ | ------------------------------------------------------------ | -------------------- | ------------------------------------------------------------ |
 | 2024 | IEEE SP      | [MM-BD: Post-Training Detection of Backdoor Attacks with Arbitrary Backdoor Pattern Types Using a Maximum Margin Statistic](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a015/1RjE9SU7Kz6) | Detection            |                                                              |
 | 2023 | NeurIPS 2023 | [Neural Polarizer: A Lightweight and Effective Backdoor Defense via Purifying Poisoned Features](https://neurips.cc/virtual/2023/poster/71467) | Mitigation           |                                                              |
-| 2023 | NeurIPS 2023 | [Black-box Backdoor Defense via Zero-shot Image Purification](https://neurips.cc/virtual/2023/poster/71421) | Mitigation           |                                                              |
 | 2023 | NeurIPS 2023 | [Shared Adversarial Unlearning: Backdoor Mitigation by Unlearning Shared Adversarial Examples](https://neurips.cc/virtual/2023/poster/69874) | Mitigation           |                                                              |
 | 2023 | NeurIPS 2023 | [Stable Backdoor Purification with Feature Shift Tuning](https://neurips.cc/virtual/2023/poster/72630) | Mitigation           | [:octocat:](https://github.com/AISafety-HKUST/stable_backdoor_purification) |
 | 2023 | NeurIPS 2023 | [CBD: A Certified Backdoor Detector Based on Local Dominant Probability](https://neurips.cc/virtual/2023/poster/72180) |                      |                                                              |
@@ -309,6 +310,8 @@ This repository contains a collection of papers and resources  on **backdoor att
 
 | Year | Publication  | Paper                                                        | Code                                                         |
 | ---- | ------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 2023 | arXiv        | [VDC: Versatile Data Cleanser for Detecting Dirty Samples via Visual-Linguistic Inconsistency](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lBSoR4IAAAAJ&citation_for_view=lBSoR4IAAAAJ:Zph67rFs4hoC) |                                                              |
+| 2023 | NeurIPS 2023 | [Black-box Backdoor Defense via Zero-shot Image Purification](https://neurips.cc/virtual/2023/poster/71421) |                                                              |
 | 2023 | NeurIPS 2023 | [A Unified Framework for Inference-Stage Backdoor Defenses](https://neurips.cc/virtual/2023/poster/72827) |                                                              |
 | 2023 | ICLR 2023    | [SCALE-UP: An Efficient Black-box Input-level Backdoor Detection via Analyzing Scaled Prediction Consistency](https://openreview.net/forum?id=o0LFPcoFKnr) | [:octocat:](https://github.com/JunfengGo/SCALE-UP%7D)        |
 | 2023 | CVPR 2023    | [Detecting Backdoors During the Inference Stage Based on Corruption Robustness Consistency](https://arxiv.org/abs/2303.18191) |                                                              |
