@@ -48,6 +48,12 @@ This repository contains a collection of papers and resources  on **backdoor att
 | 2021 | Neurocomputing               | [Defense against Neural Trojan Attacks: A Survey](https://www.sciencedirect.com/science/article/pii/S0925231220316350) |
 | 2020 | ISQED                        | [A Survey on Neural Trojans](https://eprint.iacr.org/2020/201.pdf) |
 
+# Tutorial & Workshop
+
+| Venue        | Title                                                        |
+| ------------ | ------------------------------------------------------------ |
+| ICCV 2023    | [Backdoor Learning: Recent Advances and Future Trends](https://backdoor-learning-tutorial.github.io/) |
+| NeurIPS 2023 | [Backdoors in Deep Learning](https://neurips2023-bugs.github.io/) |
 
 # ⚔Backdoor Attacks
 
