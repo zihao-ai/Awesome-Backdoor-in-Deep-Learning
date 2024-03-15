@@ -316,6 +316,7 @@ This repository contains a collection of papers and resources  on **backdoor att
 
 | Year | Publication  | Paper                                                        | Code                                                         |
 | ---- | ------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 2024 | IEEE S&P 2024| [Robust Backdoor Detection for Deep Learning via Topological Evolution Dynamics](https://arxiv.org/pdf/2312.02673.pdf) | [:octocat:](https://github.com/tedbackdoordefense/ted)   
 | 2023 | arXiv        | [VDC: Versatile Data Cleanser for Detecting Dirty Samples via Visual-Linguistic Inconsistency](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lBSoR4IAAAAJ&citation_for_view=lBSoR4IAAAAJ:Zph67rFs4hoC) |                                                              |
 | 2023 | NeurIPS 2023 | [Black-box Backdoor Defense via Zero-shot Image Purification](https://neurips.cc/virtual/2023/poster/71421) |                                                              |
 | 2023 | NeurIPS 2023 | [A Unified Framework for Inference-Stage Backdoor Defenses](https://neurips.cc/virtual/2023/poster/72827) |                                                              |
