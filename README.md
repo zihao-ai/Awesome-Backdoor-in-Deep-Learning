@@ -22,28 +22,28 @@
 
 ## 📚 Papers
 
-**887 Papers · 12 Categories · 39 Subcategories**
+**896 Papers · 12 Categories · 39 Subcategories**
 
 Start with surveys for an overview, or browse a research area and its subcategories. Each table lists papers from newest to oldest.
 
 <table>
   <tr>
-    <td colspan="2" valign="top"><a href="#area-surveys"><strong>📖 Surveys (21)</strong></a><br>
+    <td colspan="2" valign="top"><a href="#area-surveys"><strong>📖 Surveys (22)</strong></a><br>
 <a href="#topic-general-surveys">General Surveys (9)</a><br>
-<a href="#topic-surveys-specific">Topic-Specific Surveys (12)</a></td>
+<a href="#topic-surveys-specific">Topic-Specific Surveys (13)</a></td>
   </tr>
   <tr>
-    <td width="50%" valign="top"><a href="#area-ai-agents"><strong>🤖 AI Agents (33)</strong></a><br>
+    <td width="50%" valign="top"><a href="#area-ai-agents"><strong>🤖 AI Agents (34)</strong></a><br>
 <a href="#topic-agent-planning">Planning &amp; Reasoning (5)</a><br>
 <a href="#topic-agent-memory">Memory &amp; Knowledge (7)</a><br>
-<a href="#topic-agent-tools">Tools &amp; Skills (22)</a><br>
+<a href="#topic-agent-tools">Tools &amp; Skills (23)</a><br>
 <a href="#topic-multi-agent-systems">Multi-Agent Systems (5)</a></td>
-    <td width="50%" valign="top"><a href="#area-language-models"><strong>📝 NLP &amp; Language Models (182)</strong></a><br>
+    <td width="50%" valign="top"><a href="#area-language-models"><strong>📝 NLP &amp; Language Models (185)</strong></a><br>
 <a href="#topic-text-classification">Text Classification &amp; Sequence Labeling (55)</a><br>
 <a href="#topic-language-representation">Language Representation &amp; Embedding Models (15)</a><br>
 <a href="#topic-sequence-generation-translation">Sequence Generation &amp; Translation (6)</a><br>
-<a href="#topic-llms">Large Language Models &amp; Instruction Following (91)</a><br>
-<a href="#topic-code-models">Code Language Models (29)</a><br>
+<a href="#topic-llms">Large Language Models &amp; Instruction Following (93)</a><br>
+<a href="#topic-code-models">Code Language Models (30)</a><br>
 <a href="#topic-rag">Retrieval-Augmented Generation (8)</a></td>
   </tr>
   <tr>
@@ -63,12 +63,12 @@ Start with surveys for an overview, or browse a research area and its subcategor
 <a href="#topic-robotic-control">Robotic Manipulation &amp; Control (5)</a><br>
 <a href="#topic-navigation-driving">Navigation &amp; Autonomous Driving (14)</a><br>
 <a href="#topic-embodied-planning">Embodied Planning &amp; Interaction (7)</a></td>
-    <td width="50%" valign="top"><a href="#area-computer-vision"><strong>🖼️ Computer Vision (375)</strong></a><br>
-<a href="#topic-image-classification">Image Classification &amp; Recognition (308)</a><br>
-<a href="#topic-detection-segmentation-tracking">Object Detection, Segmentation &amp; Tracking (31)</a><br>
+    <td width="50%" valign="top"><a href="#area-computer-vision"><strong>🖼️ Computer Vision (378)</strong></a><br>
+<a href="#topic-image-classification">Image Classification &amp; Recognition (309)</a><br>
+<a href="#topic-detection-segmentation-tracking">Object Detection, Segmentation &amp; Tracking (32)</a><br>
 <a href="#topic-video-understanding">Video Understanding (4)</a><br>
 <a href="#topic-3d-vision">3D Vision &amp; Point Clouds (14)</a><br>
-<a href="#topic-visual-representation">Visual Representation Learning (20)</a><br>
+<a href="#topic-visual-representation">Visual Representation Learning (21)</a><br>
 <a href="#topic-image-restoration-compression">Image Restoration &amp; Compression (6)</a><br>
 <a href="#topic-visual-regression-counting">Visual Regression &amp; Counting (7)</a></td>
   </tr>
@@ -89,8 +89,8 @@ Start with surveys for an overview, or browse a research area and its subcategor
 <a href="#topic-vertical-fl">Vertical Federated Learning (9)</a></td>
   </tr>
   <tr>
-    <td colspan="2" valign="top"><a href="#area-foundations-theory"><strong>📐 Foundations &amp; Theory (28)</strong></a><br>
-<a href="#topic-learning-theory">Learning Theory &amp; Formal Guarantees (28)</a></td>
+    <td colspan="2" valign="top"><a href="#area-foundations-theory"><strong>📐 Foundations &amp; Theory (29)</strong></a><br>
+<a href="#topic-learning-theory">Learning Theory &amp; Formal Guarantees (29)</a></td>
   </tr>
 </table>
 
@@ -125,6 +125,7 @@ Survey papers are collected in **Surveys**; benchmark and dataset papers appear 
 | Year / Venue | Paper | Type | Code |
 | :--- | :--- | :--- | :---: |
 | 2026 · arXiv | [Backdoor Threats in Variational Quantum Circuits: Taxonomy, Attacks, and Defenses](https://arxiv.org/abs/2605.13796) | `Survey` | — |
+| 2026 · arXiv | [Trustworthy Distributed Machine Learning in Cloud\-Edge\-IoT Systems: A Heterogeneity\-Aware Survey of Security, Privacy, and Robustness](https://arxiv.org/abs/2610.38793) | `Survey` | — |
 | 2025 · arXiv | [A Survey on Backdoor Threats in Large Language Models \(LLMs\): Attacks, Defenses, and Evaluations](https://arxiv.org/abs/2502.05224) | `Survey` | — |
 | 2025 · arXiv | [Architectural Backdoors in Deep Learning: A Survey of Vulnerabilities, Detection, and Defense](https://arxiv.org/abs/2507.12919) | `Survey` | — |
 | 2025 · arXiv | [Backdoor Attacks and Defenses in Computer Vision Domain: A Survey](https://arxiv.org/abs/2509.07504) | `Survey` | — |
@@ -175,6 +176,7 @@ Survey papers are collected in **Surveys**; benchmark and dataset papers appear 
 
 | Year / Venue | Paper | Type | Code |
 | :--- | :--- | :--- | :---: |
+| 2026 · arXiv | [Agentic Backdoors via Pretraining Poisoning](https://arxiv.org/abs/2610.37741) | `Attack` | <a href="https://github.com/safety-research/agentic-backdoor" title="Code repository"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/github-mark-light.svg"><img src="assets/github-mark.svg" width="18" height="18" alt="GitHub"></picture></a> |
 | 2026 · arXiv | [Backdoor Decontamination Dynamics in LLM Agents](https://arxiv.org/abs/2608.11295) | `Defense` · `Analysis` | — |
 | 2026 · arXiv | [Backdoor in the Loop: Compromising Agentic Search via Malicious Retrievers](https://arxiv.org/abs/2609.37468) | `Attack` | — |
 | 2026 · arXiv | [BackdoorAgent: A Unified Framework for Backdoor Attacks on LLM\-based Agents](https://arxiv.org/abs/2601.04566) | `Benchmark` · `Attack` · `Analysis` | — |
@@ -341,6 +343,7 @@ Survey papers are collected in **Surveys**; benchmark and dataset papers appear 
 | 2026 · arXiv | [Dummy Backdoor as a Defense: Removing Unknown Backdoors via Shared Internal Mechanisms for Generative LLMs](https://arxiv.org/abs/2606.11648) | `Defense` | — |
 | 2026 · arXiv | [FloatDoor: Platform\-Triggered Backdoors in LLMs](https://arxiv.org/abs/2606.19535) | `Attack` | — |
 | 2026 · arXiv | [Inoculation Adapters: Improved Selective Generalization of Capabilities with Fewer Surprising Backdoors](https://arxiv.org/abs/2606.30252) | `Defense` · `Analysis` | — |
+| 2026 · arXiv | [Interpretable sparse fine\-tuning with TopKLoRA enables faithful circuit discovery](https://arxiv.org/abs/2610.32866) | `Analysis` · `Defense` | <a href="https://github.com/interpretable-finetuning/TopKLoRA" title="Code repository"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/github-mark-light.svg"><img src="assets/github-mark.svg" width="18" height="18" alt="GitHub"></picture></a> |
 | 2026 · arXiv | [Latent Instruction Representation Alignment: defending against jailbreaks, backdoors and undesired knowledge in LLMs](https://arxiv.org/abs/2604.10403) | `Defense` | — |
 | 2026 · arXiv | [LLM Trojans that Increase Response Lengths and Cost](https://arxiv.org/abs/2610.24784) | `Attack` · `Defense` | — |
 | 2026 · arXiv | [LoRAScan: Detecting Backdoor Prompts in Low\-Rank Adapters for Large Language Models via Down\-Projection Activation Spikes](https://arxiv.org/abs/2608.06795) | `Defense` | — |
@@ -355,6 +358,7 @@ Survey papers are collected in **Surveys**; benchmark and dataset papers appear 
 | 2026 · arXiv | [Shared Latent Structures Enable Unified Backdoor Detection and Mitigation in LLMs](https://arxiv.org/abs/2606.07963) | `Analysis` · `Defense` | — |
 | 2026 · arXiv | [SpecGuard: Inference\-Time Backdoor Detection For Free](https://arxiv.org/abs/2609.11799) | `Defense` | — |
 | 2026 · arXiv | [Stealthy Backdoor Attacks against LLMs Based on Natural Style Triggers](https://arxiv.org/abs/2604.21700) | `Attack` | — |
+| 2026 · arXiv | [Steering for Safety, Hijacking for Profit: Trojan Threats in the LLM Activation Steering Supply Chain](https://arxiv.org/abs/2610.35043) | `Attack` · `Defense` | — |
 | 2026 · arXiv | [The Model Plants the Trigger: Answer\-Side Backdoor Attacks in Multi\-Turn Large Language Models](https://arxiv.org/abs/2610.07723) | `Attack` | — |
 | 2026 · arXiv | [Thinking Wrong in Silence: Backdoor Attacks on Continuous Latent Reasoning](https://arxiv.org/abs/2604.00770) | `Attack` · `Analysis` | — |
 | 2026 · arXiv | [Topology\-Conditioned Backdoors: Language Models That Insert Vulnerabilities When They Infer They Are in a Multi\-Agent System](https://arxiv.org/abs/2610.05793) | `Attack` · `Analysis` | — |
@@ -420,6 +424,7 @@ Survey papers are collected in **Surveys**; benchmark and dataset papers appear 
 | 2026 · arXiv | [AKRASIA: Stealthy Backdoor Attack on Reasoning\-based Code LLMs](https://arxiv.org/abs/2609.01023) | `Attack` | — |
 | 2026 · arXiv | [Backdooring Sparse Autoencoders](https://arxiv.org/abs/2610.06049) | `Attack` | — |
 | 2026 · arXiv | [BadDLM: Backdooring Diffusion Language Models with Diverse Targets](https://arxiv.org/abs/2605.09397) | `Attack` | — |
+| 2026 · arXiv | [Data\-Efficient Backdoor Attacks on Code Models via Trigger\-Neutralized Counterfactual Scoring](https://arxiv.org/abs/2610.32334) | `Attack` | — |
 | 2026 · arXiv | [FloatDoor: Platform\-Triggered Backdoors in LLMs](https://arxiv.org/abs/2606.19535) | `Attack` | — |
 | 2026 · arXiv | [Latent Instruction Representation Alignment: defending against jailbreaks, backdoors and undesired knowledge in LLMs](https://arxiv.org/abs/2604.10403) | `Defense` | — |
 | 2026 · arXiv | [OPBackdoor: Opportunistic Backdoors via Alibi\-Aligned Reasoning](https://arxiv.org/abs/2609.24826) | `Attack` | — |
@@ -723,6 +728,7 @@ Survey papers are collected in **Surveys**; benchmark and dataset papers appear 
 | 2026 · arXiv | [Benign on Label, Malicious by Design: Clean\-Label Dormant\-to\-Activated Backdoor via Machine Unlearning with Removable Camouflage](https://arxiv.org/abs/2607.27936) | `Attack` | — |
 | 2026 · arXiv | [Beyond Small Patches: Black\-Box Detection and Purification of Diverse Backdoor Triggers](https://arxiv.org/abs/2609.03139) | `Defense` | — |
 | 2026 · arXiv | [Checkerboard: Closed\-Form and Data\-Independent Trigger Design for Clean\-Label Backdoor Attacks](https://arxiv.org/abs/2605.01298) | `Attack` | — |
+| 2026 · arXiv | [Combinatorial Lock for Trojan\-Resilient AI Engines via Hash\-Assisted Spectral Filtering](https://arxiv.org/abs/2610.33437) | `Defense` | — |
 | 2026 · arXiv | [Detecting Trojaned DNNs via Spectral Regression Analysis](https://arxiv.org/abs/2605.21146) | `Defense` | — |
 | 2026 · arXiv | [Diversity Matters: Distributional Feature Coverage Sample Selection for Data\-Efficient Backdoor Attacks](https://arxiv.org/abs/2608.09047) | `Attack` | — |
 | 2026 · arXiv | [Everyone's a little bit racist: a novel ML backdoor attack in black\-box mode](https://arxiv.org/abs/2610.22459) | `Attack` · `Analysis` | — |
@@ -1039,6 +1045,7 @@ Survey papers are collected in **Surveys**; benchmark and dataset papers appear 
 | 2026 · arXiv | [DETOUR: A Practical Backdoor Attack against Object Detection](https://arxiv.org/abs/2604.24599) | `Attack` | — |
 | 2026 · arXiv | [Mirage: a Clean\-Label Backdoor against LiDAR 3D Object Detection](https://arxiv.org/abs/2606.20752) | `Attack` | — |
 | 2026 · arXiv | [ODPure: Backdoor Purification for Object Detection via Ensemble Corruption Consensus](https://arxiv.org/abs/2609.28239) | `Defense` | <a href="https://github.com/Alex66366/ODPure" title="Code repository"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/github-mark-light.svg"><img src="assets/github-mark.svg" width="18" height="18" alt="GitHub"></picture></a> |
+| 2026 · arXiv | [RePAIR: Inverting Backdoor Attacks in Semantic Segmentation](https://arxiv.org/abs/2610.37015) | `Defense` | — |
 | 2026 · CVPR | [IAG: Input\-aware Backdoor Attack on VLM\-based Visual Grounding](https://arxiv.org/abs/2508.09456) | `Attack` | <a href="https://github.com/lijunxian111/IAG" title="Code repository"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/github-mark-light.svg"><img src="assets/github-mark.svg" width="18" height="18" alt="GitHub"></picture></a> |
 | 2026 · CVPR | [Towards Stealthy and Effective Backdoor Attacks on Lane Detection: A Naturalistic Data Poisoning Approach](https://arxiv.org/abs/2508.15778) | `Attack` | — |
 | 2026 · DSN | [Event Burst Trigger: An Availability Backdoor Attack on Event\-Based SNN Object Detection](https://arxiv.org/abs/2607.09115) | `Attack` | — |
@@ -1104,6 +1111,7 @@ Survey papers are collected in **Surveys**; benchmark and dataset papers appear 
 | 2026 · ACM MM | [DEFUSE: Generalizable Backdoor Defense for Self\-Supervised Encoders with Generative Priors](https://arxiv.org/abs/2608.25851) | `Defense` | <a href="https://github.com/jsrdcht/DEFUSE" title="Code repository"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/github-mark-light.svg"><img src="assets/github-mark.svg" width="18" height="18" alt="GitHub"></picture></a> |
 | 2026 · arXiv | [BadBone: Backdoor Attacks Against Backbone Models in Visual Prompt Learning](https://arxiv.org/abs/2605.31246) | `Attack` | — |
 | 2026 · arXiv | [Exposing Functional Fusion: A New Class of Strategic Backdoor in Dynamic Prompt Architectures](https://arxiv.org/abs/2605.19478) | `Attack` | — |
+| 2026 · arXiv | [Hidden Backdoor Attack on Deep Contrastive Clustering](https://arxiv.org/abs/2610.33116) | `Attack` | — |
 | 2026 · arXiv | [The Platonic Defense: Backdoor Defense for Self\-Supervised Encoders in the Era of Large Scale Pre\-training](https://arxiv.org/abs/2606.29451) | `Defense` | <a href="https://github.com/jsrdcht/Platonic-Representation-Defense" title="Code repository"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/github-mark-light.svg"><img src="assets/github-mark.svg" width="18" height="18" alt="GitHub"></picture></a> |
 | 2025 · AAAI | [TrojanDec: Data\-free Detection of Trojan Inputs in Self\-supervised Learning](https://arxiv.org/abs/2501.04108) | `Defense` | — |
 | 2025 · CVPR | [DeDe: Detecting Backdoor Samples for SSL Encoders via Decoders](https://arxiv.org/abs/2411.16154) | `Defense` | — |
@@ -1414,6 +1422,7 @@ Survey papers are collected in **Surveys**; benchmark and dataset papers appear 
 
 | Year / Venue | Paper | Type | Code |
 | :--- | :--- | :--- | :---: |
+| 2026 · arXiv | [A Certified Robustness Framework for Backdoor Poisoning Attacks using $f$\-Divergences](https://arxiv.org/abs/2610.34934) | `Defense` · `Analysis` | — |
 | 2026 · arXiv | [Backdoor Channels Hidden in Latent Space: Extending Cryptographic Undetectability to Modern Neural Networks](https://arxiv.org/abs/2605.13214) | `Attack` · `Analysis` | — |
 | 2026 · arXiv | [Implementing a White\-Box Undetectable Backdoor for Random Fourier Features](https://arxiv.org/abs/2609.16403) | `Attack` · `Analysis` | — |
 | 2026 · arXiv | [Provable Robustness against Backdoor Attacks via the Primal\-Dual Perspective on Differential Privacy](https://arxiv.org/abs/2605.21780) | `Defense` · `Analysis` | — |

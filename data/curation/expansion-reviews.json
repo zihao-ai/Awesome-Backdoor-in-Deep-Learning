@@ -7330,5 +7330,104 @@
     "metadata_note": "No unambiguous venue-year pair in source metadata; retained arXiv and first-submission year.",
     "review_date": "2026-10-23",
     "batch_id": "expansion-to-800-2026-10-23"
+  },
+  {
+    "paper_id": "trustworthy-distributed-machine-learning-in-cloud-edge-iot-systems-a-heterogeneity-aware-survey-of-security-privacy-and-robustness-2026",
+    "abstract_source": "https://arxiv.org/abs/2610.38793",
+    "review_basis": "abstract",
+    "reviewed_arxiv_version": "2610.38793v1",
+    "first_submitted": "2026-10-28",
+    "classification_note": "A security-centered survey of distributed and federated learning explicitly synthesizing backdoor attacks, defenses, and attack-aware evaluation; collected in Surveys rather than duplicated across model areas.",
+    "metadata_note": "No formal venue or publication year is stated in the official arXiv metadata; retained arXiv and first-submission year. Code included only when the author explicitly supplies a GitHub repository in the abstract.",
+    "review_date": "2026-11-01",
+    "batch_id": "incremental-2026-11-01"
+  },
+  {
+    "paper_id": "agentic-backdoors-via-pretraining-poisoning-2026",
+    "abstract_source": "https://arxiv.org/abs/2610.37741",
+    "review_basis": "abstract",
+    "reviewed_arxiv_version": "2610.37741v1",
+    "first_submitted": "2026-10-27",
+    "classification_note": "Pretraining-data poisoning implants a trigger-conditioned command-execution backdoor that survives clean post-training into a CLI agent. The attacked deployed agent uses machine tools; no planning or multi-agent evaluation is claimed.",
+    "metadata_note": "No formal venue or publication year is stated in the official arXiv metadata; retained arXiv and first-submission year. Code included only when the author explicitly supplies a GitHub repository in the abstract.",
+    "review_date": "2026-11-01",
+    "batch_id": "incremental-2026-11-01"
+  },
+  {
+    "paper_id": "repair-inverting-backdoor-attacks-in-semantic-segmentation-2026",
+    "abstract_source": "https://arxiv.org/abs/2610.37015",
+    "review_basis": "abstract",
+    "reviewed_arxiv_version": "2610.37015v1",
+    "first_submitted": "2026-10-27",
+    "classification_note": "RePAIR recovers victim-class semantics and corrects triggered semantic-segmentation predictions using unlabeled inputs and internal representations.",
+    "metadata_note": "No formal venue or publication year is stated in the official arXiv metadata; retained arXiv and first-submission year. Code included only when the author explicitly supplies a GitHub repository in the abstract.",
+    "review_date": "2026-11-01",
+    "batch_id": "incremental-2026-11-01"
+  },
+  {
+    "paper_id": "steering-for-safety-hijacking-for-profit-trojan-threats-in-the-llm-activation-steering-supply-chain-2026",
+    "abstract_source": "https://arxiv.org/abs/2610.35043",
+    "review_basis": "abstract",
+    "reviewed_arxiv_version": "2610.35043v1",
+    "first_submitted": "2026-10-26",
+    "classification_note": "Studies malicious activation-steering plugins with norm-gated hidden behavior that manipulates LLM recommendations while preserving safety-refusal functionality, and proposes a runtime defense.",
+    "metadata_note": "No formal venue or publication year is stated in the official arXiv metadata; retained arXiv and first-submission year. Code included only when the author explicitly supplies a GitHub repository in the abstract.",
+    "review_date": "2026-11-01",
+    "batch_id": "incremental-2026-11-01"
+  },
+  {
+    "paper_id": "a-certified-robustness-framework-for-backdoor-poisoning-attacks-using-f-divergences-2026",
+    "abstract_source": "https://arxiv.org/abs/2610.34934",
+    "review_basis": "abstract",
+    "reviewed_arxiv_version": "2610.34934v1",
+    "first_submitted": "2026-10-26",
+    "classification_note": "Provides composable f-divergence robustness certificates for combined training-data and test-trigger corruption under randomized smoothing and subsampling.",
+    "metadata_note": "No formal venue or publication year is stated in the official arXiv metadata; retained arXiv and first-submission year. Code included only when the author explicitly supplies a GitHub repository in the abstract.",
+    "review_date": "2026-11-01",
+    "batch_id": "incremental-2026-11-01"
+  },
+  {
+    "paper_id": "combinatorial-lock-for-trojan-resilient-ai-engines-via-hash-assisted-spectral-filtering-2026",
+    "abstract_source": "https://arxiv.org/abs/2610.33437",
+    "review_basis": "abstract",
+    "reviewed_arxiv_version": "2610.33437v2",
+    "first_submitted": "2026-10-24",
+    "classification_note": "Training-free activation-signature and spectral-filtering defense against multi-trigger image-model backdoors; hardware implementation is the deployment mechanism, not a separate hardware-Trojan detection task.",
+    "metadata_note": "No formal venue or publication year is stated in the official arXiv metadata; retained arXiv and first-submission year. Code included only when the author explicitly supplies a GitHub repository in the abstract.",
+    "review_date": "2026-11-01",
+    "batch_id": "incremental-2026-11-01"
+  },
+  {
+    "paper_id": "interpretable-sparse-fine-tuning-with-topklora-enables-faithful-circuit-discovery-2026",
+    "abstract_source": "https://arxiv.org/abs/2610.32866",
+    "review_basis": "abstract",
+    "reviewed_arxiv_version": "2610.32866v1",
+    "first_submitted": "2026-10-23",
+    "classification_note": "TopKLoRA isolates necessary and sufficient sleeper-agent backdoor circuits in instruction-tuned language models and removes the malicious capability through circuit ablation.",
+    "metadata_note": "No formal venue or publication year is stated in the official arXiv metadata; retained arXiv and first-submission year. Code included only when the author explicitly supplies a GitHub repository in the abstract.",
+    "review_date": "2026-11-01",
+    "batch_id": "incremental-2026-11-01"
+  },
+  {
+    "paper_id": "data-efficient-backdoor-attacks-on-code-models-via-trigger-neutralized-counterfactual-scoring-2026",
+    "abstract_source": "https://arxiv.org/abs/2610.32334",
+    "review_basis": "abstract",
+    "reviewed_arxiv_version": "2610.32334v1",
+    "first_submitted": "2026-10-23",
+    "classification_note": "Trigger-neutralized counterfactual scoring selects effective poison samples for code classification and autoregressive generation across CodeXGLUE tasks.",
+    "metadata_note": "No formal venue or publication year is stated in the official arXiv metadata; retained arXiv and first-submission year. Code included only when the author explicitly supplies a GitHub repository in the abstract.",
+    "review_date": "2026-11-01",
+    "batch_id": "incremental-2026-11-01"
+  },
+  {
+    "paper_id": "hidden-backdoor-attack-on-deep-contrastive-clustering-2026",
+    "abstract_source": "https://arxiv.org/abs/2610.33116",
+    "review_basis": "abstract",
+    "reviewed_arxiv_version": "2610.33116v1",
+    "first_submitted": "2026-10-23",
+    "classification_note": "Poisons unsupervised deep contrastive image clustering so augmentation-persistent triggers distort cluster assignments while preserving clean clustering; this is representation/clustering research rather than supervised image classification.",
+    "metadata_note": "No formal venue or publication year is stated in the official arXiv metadata; retained arXiv and first-submission year. Code included only when the author explicitly supplies a GitHub repository in the abstract.",
+    "review_date": "2026-11-01",
+    "batch_id": "incremental-2026-11-01"
   }
 ]

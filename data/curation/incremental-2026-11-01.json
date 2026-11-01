@@ -1,0 +1,78 @@
+{
+  "batch_id": "incremental-2026-11-01",
+  "previous_update_date": "2026-10-23",
+  "review_date": "2026-11-01",
+  "window_start": "2026-10-23",
+  "window_end": "2026-11-01",
+  "baseline_commit": "0f4e2fefda45058e98b65cb86387d1c2e5f86035",
+  "catalog_before": 887,
+  "added": 9,
+  "catalog_after": 896,
+  "database": "arXiv",
+  "query": "(ti:backdoor OR ti:trojan OR abs:backdoor OR abs:trojan) AND submittedDate:[202610230000 TO 202611012359]",
+  "endpoint": "https://export.arxiv.org/api/query",
+  "parameters": {
+    "start": 0,
+    "max_results": 250,
+    "sortBy": "submittedDate",
+    "sortOrder": "descending"
+  },
+  "reported_total": 14,
+  "retrieved": 14,
+  "abstracts_reviewed": 14,
+  "accepted_paper_ids": [
+    "trustworthy-distributed-machine-learning-in-cloud-edge-iot-systems-a-heterogeneity-aware-survey-of-security-privacy-and-robustness-2026",
+    "agentic-backdoors-via-pretraining-poisoning-2026",
+    "repair-inverting-backdoor-attacks-in-semantic-segmentation-2026",
+    "steering-for-safety-hijacking-for-profit-trojan-threats-in-the-llm-activation-steering-supply-chain-2026",
+    "a-certified-robustness-framework-for-backdoor-poisoning-attacks-using-f-divergences-2026",
+    "combinatorial-lock-for-trojan-resilient-ai-engines-via-hash-assisted-spectral-filtering-2026",
+    "interpretable-sparse-fine-tuning-with-topklora-enables-faithful-circuit-discovery-2026",
+    "data-efficient-backdoor-attacks-on-code-models-via-trigger-neutralized-counterfactual-scoring-2026",
+    "hidden-backdoor-attack-on-deep-contrastive-clustering-2026"
+  ],
+  "decisions_not_added": [
+    {
+      "arxiv_id": "2610.39435",
+      "title": "Verifiable LLM-Guided Focal SMT Solving for Quantified Arrays",
+      "source": "https://arxiv.org/abs/2610.39435",
+      "status": "excluded",
+      "reason": "SAT/SMT solver backdoor sets, not malicious learned-model behavior."
+    },
+    {
+      "arxiv_id": "2610.38309",
+      "title": "NSF-DOE Vera C. Rubin Observatory's First View of the Neptune Trojan L5 (Trailing) Cloud: Two New Long-Term Stable Trojans",
+      "source": "https://arxiv.org/abs/2610.38309",
+      "status": "excluded",
+      "reason": "Neptune Trojan astronomy, not machine-learning backdoors."
+    },
+    {
+      "arxiv_id": "2610.35658",
+      "title": "A Hybrid Framework for Explainable Aviation Risk: Causal Chain Extraction from Safety Reports with Physics-Based Failure Quantification and Interventional Analysis",
+      "source": "https://arxiv.org/abs/2610.35658",
+      "status": "excluded",
+      "reason": "Causal backdoor adjustment for aviation-risk analysis, not a model-backdoor attack or defense."
+    },
+    {
+      "arxiv_id": "2610.36767",
+      "title": "Can LLMs Reliably Grade Olympiad Proofs? A Study of Mathematical Verification with LLMs",
+      "source": "https://arxiv.org/abs/2610.36767",
+      "status": "excluded",
+      "reason": "TROJAN names an adversarial-proof generation pipeline; the abstract does not establish an implanted model backdoor."
+    },
+    {
+      "arxiv_id": "2610.34942",
+      "title": "Intellectual Property Protection of Hyperdimensional Computing Classifiers: Black-Box Ownership Verification via Model Watermarking",
+      "source": "https://arxiv.org/abs/2610.34942",
+      "status": "held",
+      "reason": "Relevant backdoor-based ownership verification for hyperdimensional computing classifiers, but the abstract does not identify the four benchmark modalities and the existing taxonomy has no HDC/general-classifier leaf. Held rather than forcing image, audio, or formal-theory placement."
+    }
+  ],
+  "notes": [
+    "Start date overlaps the previous update day to capture newly indexed submissions; identifiers and normalized/near titles were checked against the current catalog.",
+    "All 14 returned abstracts were read; no PDFs, full text, datasets, or model weights were downloaded.",
+    "The initial title/abstract-backdoor query returned13 records; adding abs:trojan returned14 distinct records, including the excluded proof-verification acronym.",
+    "No source states a formal publication venue for the nine accepted papers; all remain arXiv2026.",
+    "The retrieval reconciles this bounded arXiv query, not every possible publisher or terminology variant."
+  ]
+}

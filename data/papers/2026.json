@@ -1,5 +1,19 @@
 [
   {
+    "id": "a-certified-robustness-framework-for-backdoor-poisoning-attacks-using-f-divergences-2026",
+    "title": "A Certified Robustness Framework for Backdoor Poisoning Attacks using $f$-Divergences",
+    "year": 2026,
+    "venue": "arXiv",
+    "url": "https://arxiv.org/abs/2610.34934",
+    "types": [
+      "Defense",
+      "Analysis"
+    ],
+    "topics": [
+      "learning-theory"
+    ]
+  },
+  {
     "id": "a-patch-based-cross-view-regularized-framework-for-backdoor-defense-in-multimodal-large-language-models-2026",
     "title": "A Patch-based Cross-view Regularized Framework for Backdoor Defense in Multimodal Large Language Models",
     "year": 2026,
@@ -53,6 +67,20 @@
       "llms",
       "text-classification"
     ]
+  },
+  {
+    "id": "agentic-backdoors-via-pretraining-poisoning-2026",
+    "title": "Agentic Backdoors via Pretraining Poisoning",
+    "year": 2026,
+    "venue": "arXiv",
+    "url": "https://arxiv.org/abs/2610.37741",
+    "types": [
+      "Attack"
+    ],
+    "topics": [
+      "agent-tools"
+    ],
+    "code": "https://github.com/safety-research/agentic-backdoor"
   },
   {
     "id": "agentq-quantization-conditioned-backdoor-attacks-on-llm-agents-2026",
@@ -922,6 +950,19 @@
     ]
   },
   {
+    "id": "combinatorial-lock-for-trojan-resilient-ai-engines-via-hash-assisted-spectral-filtering-2026",
+    "title": "Combinatorial Lock for Trojan-Resilient AI Engines via Hash-Assisted Spectral Filtering",
+    "year": 2026,
+    "venue": "arXiv",
+    "url": "https://arxiv.org/abs/2610.33437",
+    "types": [
+      "Defense"
+    ],
+    "topics": [
+      "image-classification"
+    ]
+  },
+  {
     "id": "compiling-activation-steering-into-weights-via-null-space-constraints-for-stealthy-backdoors-2026",
     "title": "Compiling Activation Steering into Weights via Null-Space Constraints for Stealthy Backdoors",
     "year": 2026,
@@ -998,6 +1039,19 @@
     ],
     "topics": [
       "llms"
+    ]
+  },
+  {
+    "id": "data-efficient-backdoor-attacks-on-code-models-via-trigger-neutralized-counterfactual-scoring-2026",
+    "title": "Data-Efficient Backdoor Attacks on Code Models via Trigger-Neutralized Counterfactual Scoring",
+    "year": 2026,
+    "venue": "arXiv",
+    "url": "https://arxiv.org/abs/2610.32334",
+    "types": [
+      "Attack"
+    ],
+    "topics": [
+      "code-models"
     ]
   },
   {
@@ -1564,6 +1618,19 @@
     ]
   },
   {
+    "id": "hidden-backdoor-attack-on-deep-contrastive-clustering-2026",
+    "title": "Hidden Backdoor Attack on Deep Contrastive Clustering",
+    "year": 2026,
+    "venue": "arXiv",
+    "url": "https://arxiv.org/abs/2610.33116",
+    "types": [
+      "Attack"
+    ],
+    "topics": [
+      "visual-representation"
+    ]
+  },
+  {
     "id": "iag-input-aware-backdoor-attack-on-vlm-based-visual-grounding-2026",
     "title": "IAG: Input-aware Backdoor Attack on VLM-based Visual Grounding",
     "year": 2026,
@@ -1660,6 +1727,21 @@
       "image-classification",
       "3d-vision"
     ]
+  },
+  {
+    "id": "interpretable-sparse-fine-tuning-with-topklora-enables-faithful-circuit-discovery-2026",
+    "title": "Interpretable sparse fine-tuning with TopKLoRA enables faithful circuit discovery",
+    "year": 2026,
+    "venue": "arXiv",
+    "url": "https://arxiv.org/abs/2610.32866",
+    "types": [
+      "Analysis",
+      "Defense"
+    ],
+    "topics": [
+      "llms"
+    ],
+    "code": "https://github.com/interpretable-finetuning/TopKLoRA"
   },
   {
     "id": "latent-instruction-representation-alignment-defending-against-jailbreaks-backdoors-and-undesired-knowledge-in-llms-2026",
@@ -2310,6 +2392,19 @@
     ]
   },
   {
+    "id": "repair-inverting-backdoor-attacks-in-semantic-segmentation-2026",
+    "title": "RePAIR: Inverting Backdoor Attacks in Semantic Segmentation",
+    "year": 2026,
+    "venue": "arXiv",
+    "url": "https://arxiv.org/abs/2610.37015",
+    "types": [
+      "Defense"
+    ],
+    "topics": [
+      "detection-segmentation-tracking"
+    ]
+  },
+  {
     "id": "reshift-aha-moment-driven-reasoning-level-backdoor-attacks-on-vision-language-models-2026",
     "title": "ReShift: Aha-Moment-Driven Reasoning-Level Backdoor Attacks on Vision-Language Models",
     "year": 2026,
@@ -2742,6 +2837,20 @@
     ]
   },
   {
+    "id": "steering-for-safety-hijacking-for-profit-trojan-threats-in-the-llm-activation-steering-supply-chain-2026",
+    "title": "Steering for Safety, Hijacking for Profit: Trojan Threats in the LLM Activation Steering Supply Chain",
+    "year": 2026,
+    "venue": "arXiv",
+    "url": "https://arxiv.org/abs/2610.35043",
+    "types": [
+      "Attack",
+      "Defense"
+    ],
+    "topics": [
+      "llms"
+    ]
+  },
+  {
     "id": "steptrigger-contact-state-triggered-backdoor-attacks-on-vlm-powered-legged-robots-2026",
     "title": "StepTrigger: Contact-State-Triggered Backdoor Attacks on VLM-Powered Legged Robots",
     "year": 2026,
@@ -3095,6 +3204,19 @@
     ],
     "topics": [
       "vla-models"
+    ]
+  },
+  {
+    "id": "trustworthy-distributed-machine-learning-in-cloud-edge-iot-systems-a-heterogeneity-aware-survey-of-security-privacy-and-robustness-2026",
+    "title": "Trustworthy Distributed Machine Learning in Cloud-Edge-IoT Systems: A Heterogeneity-Aware Survey of Security, Privacy, and Robustness",
+    "year": 2026,
+    "venue": "arXiv",
+    "url": "https://arxiv.org/abs/2610.38793",
+    "types": [
+      "Survey"
+    ],
+    "topics": [
+      "surveys-specific"
     ]
   },
   {

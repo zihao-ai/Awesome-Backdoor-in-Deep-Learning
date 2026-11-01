@@ -68,6 +68,7 @@ The files in `curation/` are editorial ledgers, separate from rendered paper fie
 - `legacy-migration.json` accounts for every historical paper row as migrated, duplicate, or excluded. Preserve its original row number, source line in the historical Git snapshot, and title. Retain canonical paper IDs when editing records.
 - `expansion-reviews.json` records each added paper's abstract source, review date, classification rationale, and arXiv version when applicable. Identify secondary mirrors explicitly rather than claiming primary-source access.
 - `searches.json` records topic queries and retrieval limits for the initial expansion pass. A result count is not a count of accepted papers.
+- `incremental-YYYY-MM-DD.json` records dated follow-up searches, the previous cutoff, retrieved/reviewed counts, accepted paper IDs, and explicit exclusions or held papers. Match its `batch_id` to the individual expansion reviews.
 - `expansion-to-800.json` records the historical/recent omissions batch: reconciled query results, accepted-year counts, deduplicated aliases, and classification/metadata corrections. Its `batch_id` joins the individual records in `expansion-reviews.json`.
 - `recent-expansion.json` records the subsequent 2025–2026 query, retrieval and review counts, excluded candidates, and alias decisions. Its `batch_id` joins the corresponding entries in `expansion-reviews.json`.
 

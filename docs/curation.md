@@ -1,4 +1,4 @@
-# Curation and coverage — October 23, 2026
+# Curation and coverage — November 1, 2026
 
 This dated editorial snapshot tracks the historical migration, topic-by-topic expansion, community contributions, and a further backfill of historical and recent omissions. It is not an exhaustive bibliography of all published backdoor research.
 
@@ -12,7 +12,8 @@ This dated editorial snapshot tracks the historical migration, topic-by-topic ex
 | Subsequent 2025–2026 expansion | 146 |
 | Community contribution PR #6 | 2 |
 | Historical and recent omissions expansion | 433 |
-| **Total** | **887** |
+| Incremental update through November 1, 2026 | 9 |
+| **Total** | **896** |
 
 The old README contains 222 year-table rows and four additional toolbox-associated paper rows. All 226 rows are accounted for: 212 migrated works, seven repeated rows merged into their canonical records, and seven scope exclusions. The fifth toolbox-only row had no paper and remains a software resource. The [original catalog](https://github.com/zihao-ai/Awesome-Backdoor-Research/blob/4be174fceda6034a8b7856a56a848e5b10adc097/README.md) and retired parser are available in Git history; redundant working-tree copies have been removed.
 
@@ -23,19 +24,19 @@ Counts below are table appearances, not unique-paper counts. Cross-listed papers
 | Area | Subcategory | Current papers | Initial additions | Recent additions |
 | :--- | :--- | ---: | ---: | ---: |
 | Surveys | [General Surveys](../README.md#topic-general-surveys) | 9 | 1 | 1 |
-| Surveys | [Topic-Specific Surveys](../README.md#topic-surveys-specific) | 12 | 3 | 3 |
-| Computer Vision | [Image Classification & Recognition](../README.md#topic-image-classification) | 308 | 3 | 1 |
-| Computer Vision | [Object Detection, Segmentation & Tracking](../README.md#topic-detection-segmentation-tracking) | 31 | 3 | 10 |
+| Surveys | [Topic-Specific Surveys](../README.md#topic-surveys-specific) | 13 | 3 | 3 |
+| Computer Vision | [Image Classification & Recognition](../README.md#topic-image-classification) | 309 | 3 | 1 |
+| Computer Vision | [Object Detection, Segmentation & Tracking](../README.md#topic-detection-segmentation-tracking) | 32 | 3 | 10 |
 | Computer Vision | [Video Understanding](../README.md#topic-video-understanding) | 4 | 2 | 0 |
 | Computer Vision | [3D Vision & Point Clouds](../README.md#topic-3d-vision) | 14 | 2 | 4 |
-| Computer Vision | [Visual Representation Learning](../README.md#topic-visual-representation) | 20 | 1 | 4 |
+| Computer Vision | [Visual Representation Learning](../README.md#topic-visual-representation) | 21 | 1 | 4 |
 | Computer Vision | [Image Restoration & Compression](../README.md#topic-image-restoration-compression) | 6 | 1 | 2 |
 | Computer Vision | [Visual Regression & Counting](../README.md#topic-visual-regression-counting) | 7 | 1 | 3 |
 | NLP & Language Models | [Text Classification & Sequence Labeling](../README.md#topic-text-classification) | 55 | 2 | 0 |
 | NLP & Language Models | [Language Representation & Embedding Models](../README.md#topic-language-representation) | 15 | 2 | 1 |
 | NLP & Language Models | [Sequence Generation & Translation](../README.md#topic-sequence-generation-translation) | 6 | 1 | 0 |
-| NLP & Language Models | [Large Language Models & Instruction Following](../README.md#topic-llms) | 91 | 5 | 28 |
-| NLP & Language Models | [Code Language Models](../README.md#topic-code-models) | 29 | 6 | 10 |
+| NLP & Language Models | [Large Language Models & Instruction Following](../README.md#topic-llms) | 93 | 5 | 28 |
+| NLP & Language Models | [Code Language Models](../README.md#topic-code-models) | 30 | 6 | 10 |
 | NLP & Language Models | [Retrieval-Augmented Generation](../README.md#topic-rag) | 8 | 3 | 4 |
 | Multimodal Learning | [Vision–Language Representation & Retrieval](../README.md#topic-vision-language-representation) | 26 | 2 | 7 |
 | Multimodal Learning | [Vision–Language Understanding & MLLMs](../README.md#topic-mllms) | 37 | 3 | 17 |
@@ -46,7 +47,7 @@ Counts below are table appearances, not unique-paper counts. Cross-listed papers
 | Generative Models | [3D Content & Motion Generation](../README.md#topic-3d-generation) | 3 | 2 | 1 |
 | AI Agents | [Planning & Reasoning](../README.md#topic-agent-planning) | 5 | 3 | 2 |
 | AI Agents | [Memory & Knowledge](../README.md#topic-agent-memory) | 7 | 2 | 1 |
-| AI Agents | [Tools & Skills](../README.md#topic-agent-tools) | 22 | 6 | 13 |
+| AI Agents | [Tools & Skills](../README.md#topic-agent-tools) | 23 | 6 | 13 |
 | AI Agents | [Multi-Agent Systems](../README.md#topic-multi-agent-systems) | 5 | 2 | 3 |
 | Embodied AI | [Vision–Language–Action Models](../README.md#topic-vla-models) | 9 | 2 | 3 |
 | Embodied AI | [Robotic Manipulation & Control](../README.md#topic-robotic-control) | 5 | 1 | 2 |
@@ -60,7 +61,7 @@ Counts below are table appearances, not unique-paper counts. Cross-listed papers
 | Reinforcement Learning | [Multi-Agent Reinforcement Learning](../README.md#topic-multi-agent-rl) | 9 | 2 | 2 |
 | Federated Learning | [Horizontal Federated Learning](../README.md#topic-horizontal-fl) | 76 | 2 | 6 |
 | Federated Learning | [Vertical Federated Learning](../README.md#topic-vertical-fl) | 9 | 3 | 2 |
-| Foundations & Theory | [Learning Theory & Formal Guarantees](../README.md#topic-learning-theory) | 28 | 5 | 1 |
+| Foundations & Theory | [Learning Theory & Formal Guarantees](../README.md#topic-learning-theory) | 29 | 5 | 1 |
 
 ## Scope exclusions
 
@@ -151,7 +152,7 @@ The final alias check keeps one record for FTrojan's preprint/ECCV title, the pr
 
 Classification review removed unsupported audio and graph-task cross-listings, added the explicitly evaluated LLM/segmentation victims to Memory Backdoor Attacks, and cross-listed the Stop-and-Go driving controller under reinforcement learning. Hardware/astronomy/SAT/causal-adjustment uses of the keywords, withdrawn submissions, and generic attacks without a model-backdoor mechanism were excluded or held. Relevant time-series, BCI, tabular, and malware-classifier candidates lacking a suitable current leaf were held instead of being forced into unrelated categories. This remaining taxonomy gap is separate from coverage within the existing areas.
 
-| Display year | Additions in this pass | Current unique papers |
+| Display year | Additions in this pass | Unique papers after this batch |
 | :--- | ---: | ---: |
 | 2017 | 1 | 1 |
 | 2018 | 2 | 7 |
@@ -163,3 +164,13 @@ Classification review removed unsupported audio and graph-task cross-listings, a
 | 2024 | 39 | 82 |
 | 2025 | 12 | 113 |
 | 2026 | 162 | 254 |
+
+## Incremental update — November 1, 2026
+
+The last published catalog update was October 23, 2026 (`0f4e2fe`). This pass searches October 23 through November 1 inclusive, overlapping the previous day to capture indexing delays and then removing existing identifiers or title aliases. The expanded arXiv title/abstract query returned **14/14** records; all 14 abstracts were read. **Nine papers** were accepted, increasing the unique-paper total from **887 to 896**. The accepted submissions are dated October 23–28; no claim is made that the query exhausts every publication venue or terminology variant.
+
+New coverage includes pretraining backdoors in CLI agents, code-model poison selection, activation-steering supply-chain threats, LLM circuit analysis/removal, segmentation repair, multi-trigger defenses, robustness certification, contrastive clustering, and a distributed-learning security survey. None of the nine source records establishes a formal publication venue, so all are listed as arXiv 2026. Two abstracts explicitly provide code repositories, which are linked without guessing additional implementations.
+
+Four records concern unrelated meanings of backdoor/Trojan (SMT solving, astronomy, causal adjustment, and an adversarial-proof-generation acronym) and were excluded. One relevant HDC classifier-watermarking paper was held: the abstract does not identify its benchmark modalities and the present leaf taxonomy has no suitable HDC classifier category. It was not forced into a vision or formal-theory table.
+
+The [incremental manifest](../data/curation/incremental-2026-11-01.json) records the window, baseline commit, query, reconciled counts, accepted IDs, and individual exclusions/hold. Individual accepted-paper review notes are in the expansion ledger under batch ID `incremental-2026-11-01`. No PDFs or full papers were downloaded.
